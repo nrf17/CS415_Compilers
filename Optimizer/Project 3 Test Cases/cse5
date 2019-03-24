@@ -1,0 +1,15 @@
+program main;
+var a: integer;
+    b: integer;
+    c: integer;
+    d: integer;
+    e: integer;
+begin
+  a := 5;
+  b := 6;
+  c := 7;
+  d := 8;
+  e := 9;
+  a := a+b+c+d+e+a+e+c+e;
+  print(a)
+end.

@@ -1,0 +1,11 @@
+program main;
+var a: integer;
+    b: integer;
+    c: integer;
+begin
+  b := 7;
+  c := 3;
+  a := b*c;
+  a := b*c;
+  print(a)
+end.

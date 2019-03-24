@@ -1,0 +1,4 @@
+program main;
+begin
+  print(5+5)
+end.

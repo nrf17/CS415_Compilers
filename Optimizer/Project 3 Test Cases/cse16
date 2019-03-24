@@ -1,0 +1,16 @@
+program main;
+var a: integer;
+    b: integer;
+    c: integer;
+    d: integer;
+    e: integer;
+begin
+  d := 7;
+  e := 3;
+  a := d+e;
+  b := d+e;
+  c := d+e;
+  print(a);
+  print(b);
+  print(c)
+end.

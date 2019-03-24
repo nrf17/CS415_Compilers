@@ -1,0 +1,9 @@
+program main;
+var a: integer;
+    b: integer;
+begin
+  a := 2+3;
+  b := 2+3;
+  print(a);
+  print(b)
+end.

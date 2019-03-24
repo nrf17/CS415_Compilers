@@ -1,0 +1,6 @@
+program main;
+var a:integer;
+begin
+   a := 5+5+5+5;
+   print(a)
+end.

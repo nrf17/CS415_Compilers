@@ -1,0 +1,17 @@
+program main;
+var a: integer;
+    b: integer;
+    c: integer;
+    d: integer;
+    e: integer;
+begin
+  a := 3;
+  b := 2;
+  c := 2;
+  d := 5;
+  e := 2;
+  e := a*b*c*d*e;
+  d := a*b*c*d*e;
+  print(d);
+  print(e)
+end.

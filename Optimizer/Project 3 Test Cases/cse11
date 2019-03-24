@@ -1,0 +1,9 @@
+program main;
+var a: integer;
+    b: integer;
+begin
+  a := 5;
+  b := 6;
+  a := a*b+b*a;
+  print(a)
+end.
